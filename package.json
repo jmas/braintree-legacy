@@ -1,0 +1,8 @@
+{
+    "name": "braintree-legacy",
+    "main": "braintree.js",
+    "version": "1.3.10",
+    "description": "Legacy version of Braintree",
+    "author": "Tom Wu",
+    "license": "MIT"
+}
